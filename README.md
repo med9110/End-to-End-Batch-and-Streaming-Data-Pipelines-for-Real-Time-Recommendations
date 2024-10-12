@@ -1,0 +1,2 @@
+# End-to-End-Batch-and-Streaming-Data-Pipelines-for-Real-Time-Recommendations
+This project demonstrates the implementation of an end-to-end data engineering solution that involves both batch and streaming data pipelines. The objective is to build a system that can process data in batch mode to train a recommendation model and use streaming data to provide real-time product recommendations based on stakeholder requirements.
